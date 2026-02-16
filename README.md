@@ -14,6 +14,10 @@ This project is a smart voice assistant built using Python.
 Python, SpeechRecognition, Pyttsx3
 
 ## How to run
-pip install -r requirements.txt
-python voice_assistant.py
+- pip install -r requirements.txt
+- python voice_assistant.py
+
+## Demo Screenshot
+
+![Voice Assistant](Screenshot_voice_assistant.png)
 
